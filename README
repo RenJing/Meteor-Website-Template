@@ -1,0 +1,7 @@
+== README
+
+run "meteor" to start
+visit http://localhost:3000
+
+Reference:
+https://www.meteor.com/tutorials/blaze/creating-an-app
