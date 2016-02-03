@@ -3,6 +3,9 @@
 run "meteor" to start
 visit http://localhost:3000
 
+run "meteor mongo" to open mongodb console
+
+
 Reference:
 https://www.meteor.com/install
 https://www.meteor.com/tutorials/blaze/creating-an-app
